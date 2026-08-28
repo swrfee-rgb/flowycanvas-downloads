@@ -1,6 +1,6 @@
 {
-  "win": "FlowyCanvas-Setup-0.99.4.exe",
-  "mac-arm": "FlowyCanvas-0.99.4-arm64-mac.dmg",
-  "mac-intel": "FlowyCanvas-0.99.4-x64-mac.dmg",
-  "tag": "v0.99.4"
+  "win": "FlowyCanvas-Setup-0.99.5.exe",
+  "mac-arm": "FlowyCanvas-0.99.5-arm64-mac.dmg",
+  "mac-intel": "FlowyCanvas-0.99.5-x64-mac.dmg",
+  "tag": "v0.99.5"
 }
